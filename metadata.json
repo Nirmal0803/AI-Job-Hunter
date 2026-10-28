@@ -1,0 +1,6 @@
+{
+  "name": "AutoApply AI - Intelligent Job-Hunting Agent",
+  "description": "Autonomous personal AI job-hunting agent that extracts resumes, discovers & matches opportunities, generates tailored ATS resumes & cover letters, assists with application filling, and tracks applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
